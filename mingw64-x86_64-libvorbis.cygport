@@ -2,7 +2,7 @@ CROSS_HOST="x86_64-w64-mingw32"
 inherit cross
 
 NAME="mingw64-x86_64-libvorbis"
-VERSION=1.3.5
+VERSION=1.3.6
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Xiph audio compression codec for Win64 toolchain"
